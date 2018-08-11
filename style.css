@@ -1,0 +1,21 @@
+div#board_section {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+div.box {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.box {
+  height: 100%;
+  display: inline;
+  float: left;
+}
+
+.row {
+  width: 100%;
+  margin: auto;
+}
