@@ -9,6 +9,16 @@ div.box {
   border-width: 1px;
 }
 
+.playerCross {
+  background-image: url("images/x.png");
+  background-size: 100%;
+}
+
+.playerCircle {
+  background-image: url("images/o.png");
+  background-size: 100%;
+}
+
 .box {
   height: 100%;
   display: inline;
